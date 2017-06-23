@@ -1,6 +1,6 @@
 {
   "name": "theia-core",
-  "version": "0.0.1-alpha.2a",
+  "version": "0.0.1-alpha.2",
   "description": "Theia is a cloud & desktop IDE framework implemented in TypeScript.",
   "repository": {
     "type": "git",
@@ -31,7 +31,7 @@
     "@types/yargs": "^6.6.0",
     "bunyan": "^1.8.10",
     "chokidar": "^1.6.1",
-    "electron": "1.6.8",
+    "electron": "1.6.7",
     "express": "^4.15.2",
     "fs-extra": "^2.1.2",
     "glob": "^7.1.1",
